@@ -58,3 +58,7 @@ function validateCaptcha(imageSrc, value){
 	}
 	return false;
 }
+
+function hola() {
+	alert("hola mundo")
+}
