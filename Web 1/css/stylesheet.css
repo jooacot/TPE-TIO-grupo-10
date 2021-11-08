@@ -1,5 +1,5 @@
 body{
-    font-family: georgia, times, arial, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
 }
 header{
@@ -7,7 +7,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-   	background-color: rgba(0, 0, 0, 0.062);
+   	background-color: rgba(168, 87, 87, 0.062);
     border-bottom: rgb(0, 0, 0) solid;
 }
 .header-wrapper{
@@ -147,7 +147,7 @@ footer {
     }
 footer ul{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 5px 0px 0px 0px;
     padding: 0px;
 }
