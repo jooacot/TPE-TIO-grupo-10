@@ -58,3 +58,11 @@ function validateCaptcha(imageSrc, value){
 	}
 	return false;
 }
+
+function hola() {
+	alert("hola mundo")
+}
+
+function crear mundo () {
+	alert("crear mundo mundo")
+}
