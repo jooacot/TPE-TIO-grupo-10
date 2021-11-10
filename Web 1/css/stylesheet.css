@@ -5,7 +5,7 @@ body{
 header{
     overflow: hidden;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     padding: 5px;
    	background-color: rgba(168, 87, 87, 0.062);
     border-bottom: rgb(0, 0, 0) solid;
